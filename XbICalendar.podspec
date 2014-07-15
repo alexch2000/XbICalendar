@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.license      = 'MPL or LGPL'
   spec.authors      = { "Andrew Halls" => "andrew@galtsoft.com" }
   
-  spec.source       = { :git => "https://github.com/libical/XbICalendar.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/alexch2000/XbICalendar.git", :tag => spec.version.to_s }
   
   spec.requires_arc = true
   
